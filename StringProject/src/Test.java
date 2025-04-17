@@ -1,7 +1,9 @@
 
 public class Test {
 int a;
+int d;
 int b;
+
 	public static void main(String[] args) {
 
 		String s="  complete java classess  ";
