@@ -1,6 +1,7 @@
 
 public class Test {
 int a;
+int b;
 	public static void main(String[] args) {
 
 		String s="  complete java classess  ";
